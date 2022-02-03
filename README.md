@@ -2,7 +2,7 @@
 
 
 
-## This quiz is just random questions.
+## This quiz is just 10 random questions.
 
 
 
