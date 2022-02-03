@@ -2,7 +2,7 @@
 
 
 
-## This Game is just random questions 
+## This quiz is just random questions.
 
 
 
